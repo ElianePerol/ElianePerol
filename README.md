@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **eliane.perol@gmail.com**
 
-- ⚡ Fun fact **I lived in the UK for 7 years,fancy a cuppa?**
+- ⚡ Fun fact **I lived in the UK for 7 years, fancy a cuppa?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
