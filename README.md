@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eliane</h1>
 <h3 align="center">A dev student from France</h3>
 
-- 🌱 I’m currently learning **HTMS, CSS, JS, php, Python**
+- 🌱 I’m currently learning **HTML, CSS, JS, php, Python**
 
 - 📫 How to reach me **eliane.perol@gmail.com**
 
