@@ -12,7 +12,7 @@
     <li><strong>Backend:</strong> PHP, Python, SQL (MySQL)</li>
     <li><strong>Version Control:</strong> Git/GitHub</li>
     <li><strong>Programming Concepts:</strong> Object-Oriented Programming (inheritance, encapsulation, polymorphism)</li>
-    <li><strong>Frameworks:</strong> Slim, Laravel, Bootstrap</li>
+    <li><strong>Frameworks:</strong>Laravel, Bootstrap</li>
 </ul>
 
 
@@ -26,7 +26,7 @@
 <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
-    <img href="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
 </p>
 <p>   
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php"/>
