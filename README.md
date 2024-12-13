@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Eliane</h1>
-<p align="center">A passionate <strong>Web Developer Student</strong> transitioning from a successful career in optometry.</p>
+<p align="center">A passionate <strong>Web Developer Student</strong> transitioning from a successful career in optics.</p>
+<p align="center">
+  <a href="https://linkedin.com/in/eliane-perol" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin eliane-perol" /></a>
+  <a href="mailto:eliane.perol@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail to eliane-perol" /></a>
+</p>
 
 <h2>🌟 About Me</h2>
-<p>🌍 <strong>Based in:</strong> France</p>
-<p>💻 <strong>Currently studying</strong> a two-year technical degree in 'IT Services to Organisations' with a specialisation in programming.</p>
+<p>🌍 <strong>Based in</strong> France</p>
+<p>🎓 <strong>About to graduate</strong> from a two-year technical degree in 'IT Services to Organisations' specialising in programming.</p>
+<p>💻 <strong>Next step:</strong> pursuing a Bachelor's degree in 'Application Development and Design'.</p>
 <p>⚡ <strong>Fun Fact:</strong> I lived in the UK for 7 years! Fancy a chat over a cuppa? ☕</p>
 
 <h2>🎯 Currently mastering</h2>
@@ -15,14 +20,7 @@
     <li><strong>Frameworks:</strong>Laravel, Bootstrap</li>
 </ul>
 
-
-<h2>🤝 Let's connect:</h2>
-<p>
-  <a href="https://linkedin.com/in/eliane-perol" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin eliane-perol" /></a>
-  <a href="mailto:eliane.perol@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail to eliane-perol" /></a>
-</p>
-
-<h2>🛠️ Languages & Tools:</h2>
+<h2>🛠️ Languages & Tools</h2>
 <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
