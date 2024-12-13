@@ -1,16 +1,41 @@
 <h1 align="center">Hi 👋, I'm Eliane</h1>
-<h3 align="center">A dev student from France</h3>
+<p align="center">A passionate <strong>Web Developer Student</strong> transitioning from a successful career in optometry.</p>
 
-- 🌱 I’m currently learning **HTML, CSS, JS, php, Python**
+<h2>🌟 About Me</h2>
+<p>🌍 <strong>Based in:</strong> France</p>
+<p>💻 <strong>Currently studying</strong> a two-year technical degree in 'IT Services to Organisations' with a specialisation in programming.</p>
+<p>⚡ <strong>Fun Fact:</strong> I lived in the UK for 7 years! Fancy a chat over a cuppa? ☕</p>
 
-- 📫 How to reach me **eliane.perol@gmail.com**
+<h2>🎯 Currently mastering</h2>
+<ul>
+    <li><strong>Frontend:</strong> HTML5, CSS3, JavaScript</li>
+    <li><strong>Backend:</strong> PHP, Python, SQL (MySQL)</li>
+    <li><strong>Version Control:</strong> Git/GitHub</li>
+    <li><strong>Programming Concepts:</strong> Object-Oriented Programming (inheritance, encapsulation, polymorphism)</li>
+    <li><strong>Frameworks:</strong> Slim, Laravel, Bootstrap</li>
+</ul>
 
-- ⚡ Fun fact **I lived in the UK for 7 years, fancy a cuppa?**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/eliane-perol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eliane-perol" height="30" width="40" /></a>
+<h2>🤝 Let's connect:</h2>
+<p>
+  <a href="https://linkedin.com/in/eliane-perol" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin eliane-perol" /></a>
+  <a href="mailto:eliane.perol@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail to eliane-perol" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h2>🛠️ Languages & Tools:</h2>
+<p>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"/> </a>
+  <a href="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"/> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/> </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/> </a>
+</p>
