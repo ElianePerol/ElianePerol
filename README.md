@@ -6,7 +6,7 @@
 </p>
 
 <h2>🌟 About Me</h2>
-<p>🌍 <strong>Based in</strong> France</p>
+<p>🌍 <strong>Based in</strong> France.</p>
 <p>🎓 <strong>About to graduate</strong> from a two-year technical degree in 'IT Services to Organisations' specialising in programming.</p>
 <p>💻 <strong>Next step:</strong> pursuing a Bachelor's degree in 'Application Development and Design'.</p>
 <p>⚡ <strong>Fun Fact:</strong> I lived in the UK for 7 years! Fancy a chat over a cuppa? ☕</p>
@@ -17,7 +17,7 @@
     <li><strong>Backend:</strong> PHP, Python, SQL (MySQL)</li>
     <li><strong>Version Control:</strong> Git/GitHub</li>
     <li><strong>Programming Concepts:</strong> Object-Oriented Programming (inheritance, encapsulation, polymorphism)</li>
-    <li><strong>Frameworks:</strong>Laravel, Bootstrap</li>
+    <li><strong>Frameworks:</strong> Laravel, Bootstrap</li>
 </ul>
 
 <h2>🛠️ Languages & Tools</h2>
