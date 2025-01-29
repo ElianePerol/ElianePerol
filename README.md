@@ -8,7 +8,7 @@
 <h2>🌟 About Me</h2>
 <p>🌍 <strong>Based in</strong> France.</p>
 <p>🎓 <strong>About to graduate</strong> from a two-year technical degree in 'IT Services to Organisations' specialising in programming.</p>
-<p>💻 <strong>Next step:</strong> pursuing a Bachelor's degree in 'Application Development and Design'.</p>
+<p>💻 <strong>Next step:</strong> Software Engineering degree.</p>
 <p>⚡ <strong>Fun Fact:</strong> I lived in the UK for 7 years! Fancy a chat over a cuppa? ☕</p>
 
 <h2>🎯 Currently mastering</h2>
