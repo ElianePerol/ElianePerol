@@ -13,11 +13,11 @@
 
 <h2>🎯 Currently mastering</h2>
 <ul>
-    <li><strong>Frontend:</strong> HTML5, CSS3, JavaScript</li>
-    <li><strong>Backend:</strong> PHP, Python, SQL (MySQL)</li>
+    <li><strong>Backend:</strong> C#, SQL (MySQL), PHP, Python</li>
+    <li><strong>Frontend:</strong> HTML5, CSS3, JavaScript, React</li>
     <li><strong>Version Control:</strong> Git/GitHub</li>
     <li><strong>Programming Concepts:</strong> Object-Oriented Programming (inheritance, encapsulation, polymorphism)</li>
-    <li><strong>Frameworks:</strong> Laravel, Bootstrap</li>
+    <li><strong>Frameworks:</strong>.NET, Laravel, Bootstrap</li>
 </ul>
 
 <h2>🛠️ Languages & Tools</h2>
