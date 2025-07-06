@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eliane</h1>
-<p align="center">A passionate <strong>Web Developer Student</strong> transitioning from a successful career in optics.</p>
+<p align="center">A passionate <strong>Dev Student</strong> transitioning from a successful career in optics.</p>
 <p align="center">
   <a href="https://linkedin.com/in/eliane-perol" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin eliane-perol" /></a>
   <a href="mailto:eliane.perol@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail to eliane-perol" /></a>
